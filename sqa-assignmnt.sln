@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqa-assignmnt", "sqa-assignmnt\sqa-assignmnt.csproj", "{45353709-9B7E-43AB-B927-7E0B9CAC29AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45353709-9B7E-43AB-B927-7E0B9CAC29AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45353709-9B7E-43AB-B927-7E0B9CAC29AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45353709-9B7E-43AB-B927-7E0B9CAC29AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45353709-9B7E-43AB-B927-7E0B9CAC29AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5761B9C2-1112-4B05-BB69-364313A78776}
+	EndGlobalSection
+EndGlobal
